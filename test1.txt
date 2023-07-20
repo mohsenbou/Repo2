@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 68CA-2F11
+
+ Directory of C:\Dev\tuto Git GitHub\MyProject
+
+20/07/2023  11:40    <DIR>          .
+20/07/2023  11:37    <DIR>          ..
+20/07/2023  11:40                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  266,828,210,176 bytes free
